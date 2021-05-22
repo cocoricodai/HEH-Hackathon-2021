@@ -1,5 +1,6 @@
 # HEH-Hackathon-2021
  End-of-year exam at the HEH in groups of 4, a project programmed only in C #
+ With [Nicoriskk](https://github.com/nicorisk)
 
 ## Instructions
 In groups of 4, you will create a program that will allow you to create and manage one or more

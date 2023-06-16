@@ -1,7 +1,7 @@
 # HEH-Hackathon-2021
  End-of-year exam at the HEH in groups of 4, a project programmed only in C #
 
-With [Nicoriskk](https://github.com/nicorisk), Sylvain Henquin (no github profile) an Matteo Alcantarini (no github profile either)
+With [Nicoriskk](https://github.com/nicorisk), [Syhenn](https://github.com/Syhenn) an [Traczi](https://github.com/traczi)
 
 ## Instructions
 In groups of 4, you will create a program that will allow you to create and manage one or more
